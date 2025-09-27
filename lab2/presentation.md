@@ -1,26 +1,9 @@
----
-## Front matter
-lang: ru-RU
-title: "Лабораторная работа №2: Шифры перестановки"
-subtitle: "Дисциплина: Математические основы защиты информации и информационной безопасности"
-author: Савченко Елизавета Николаевна, НПИмд-01-24, 1132249569
-institute: Российский университет дружбы народов, Москва, Россия
-date: 27 сентября 2025
+# Лабораторная работа №2: Шифры перестановки"
+### Дисциплина: Математические основы защиты информации и информационной безопасности"
+***Савченко Елизавета Николаевна, НПИмд-01-24, 1132249569***
+**Российский университет дружбы народов, Москва, Россия**
 
-## i18n babel
-babel-lang: russian
-babel-otherlangs: english
-
-## Formatting pdf
-toc: false
-toc-title: Содержание
-slide_level: 2
-aspectratio: 169
-section-titles: true
-theme: metropolis
-header-includes:
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
----
+27 сентября 2025
 
 ## Цель работы
 
